@@ -92,6 +92,7 @@
 - [Hikari](https://github.com/antoineross/Hikari) - A complete & open source Nextjs.14, Stripe and Supabase SaaS Starter Template using App Router.
 - [Firestarta](https://github.com/uixmat/firestarta) - Next.js SaaS boilerplate with NextAuth, Prisma, Supabase, Shadcn/ui & Lemon Squeezy Subscriptions.
 - [Next Money](https://github.com/virgoone/next-money) - Empower your next project with the stack of Next.js 14, Prisma, Supabase, Clerk Auth, Resend, React Email, Shadcn/ui, and Stripe.
+- [Permit.io](https://permit.io) - An authorization as a service solution that allows building and managing authorization in Next.js, supporting RBAC, ABAC, and ReBAC with a no-code UI.
 
 ## App
 
